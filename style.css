@@ -149,19 +149,19 @@ section {
 
 /* Background images*/
 .section-a {
-    background-image: url(../SpaceX/images/Launch_Page_Starlink1_vertical_18_DESKTOP_Section_1.jpg);
+    background-image: url(images/Launch_Page_Starlink1_vertical_18_DESKTOP_Section_1.jpg);
 }
 
 .section-b {
-    background-image: url(../SpaceX/images/Merah_Putih_Section_2.jpeg);
+    background-image: url(images/Merah_Putih_Section_2.jpeg);
 }
 
 .section-c {
-    background-image: url(../SpaceX/images/IM_1_pad40silverdome_DSC_3742_Section_3.jpg);
+    background-image: url(images/IM_1_pad40silverdome_DSC_3742_Section_3.jpg);
 }
 
 .section-d {
-    background-image: url(../SpaceX/images/USSF_124_outsideentrancerd_Section_4.jpg);
+    background-image: url(images/USSF_124_outsideentrancerd_Section_4.jpg);
 }
 
 .section-e video{
